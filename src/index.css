@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.course-list-item {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  width: 50%;
+  margin: auto;
+  
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.course-info {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.course-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.course-instructor {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.course-duration {
+  font-size: 14px;
+  color: #666;
+}
+
+.course-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.header{
+  height: 10vh;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.user-dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.course-card {
+  display: flex;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+
+.course-thumbnail {
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.course-details {
+  padding: 10px;
+}
+
+.progress-bar {
+  background: #eee;
+  height: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+.progress {
+  background: #007bff;
+  height: 100%;
+  text-align: center;
+  line-height: 20px;
+  color: #fff;
+  border-radius: 10px;
+}
+

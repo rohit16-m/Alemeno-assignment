@@ -1,0 +1,284 @@
+[
+    {
+      "id": 2,
+      "name": "Advanced React Native Development",
+      "instructor": "Jane Smith",
+      "description": "Take your React Native skills to the next level and build complex mobile applications.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Introduction to React Native", "JavaScript proficiency"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Advanced React Native Features",
+          "content": "Exploring advanced features and components in React Native."
+        },
+        {
+          "week": 2,
+          "topic": "State Management",
+          "content": "Managing app state and data using Redux."
+        }
+      ],
+      "students": [
+        {
+        "id": 101,
+        "name":"Alice Johnson",
+        "email": "alice@example.com"
+        },
+        {
+        "id": 102,
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+        }]
+      
+    },
+    {
+      "id": 3,
+      "name": "Web Development Fundamentals",
+      "instructor": "Alice Johnson",
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "duration": "6 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["None"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Learn the basics of HTML, including tags and structure."
+        },
+        {
+          "week": 2,
+          "topic": "CSS Styling",
+          "content": "Styling web pages with CSS, including selectors and properties."
+        }
+      ],
+      "students": [
+        {
+        "id": 101,
+        "name":"Alice Johnson",
+        "email": "alice@example.com"
+        },
+        {
+        "id": 102,
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+        }]
+    },
+    {
+        "id": 4,
+        "name": "JavaScript for Beginners",
+        "instructor": "Emily Brown",
+        "description": "A beginner-friendly introduction to JavaScript programming.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "data:image/jpeg;base64,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",
+        "duration": "6 weeks",
+        "schedule": "Mondays and Wednesdays, 5:30 PM - 7:30 PM",
+        "location": "Online",
+        "prerequisites": ["None"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to JavaScript",
+            "content": "Basic concepts of JavaScript and its importance in web development."
+          },
+          {
+            "week": 2,
+            "topic": "Variables and Data Types",
+            "content": "Exploring variables, data types, and variable declaration in JavaScript."
+          }
+        ],
+        "students": [
+          {
+          "id": 101,
+          "name":"Alice Johnson",
+          "email": "alice@example.com"
+          },
+          {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+          }]
+      },
+      {
+        "id": 5,
+        "name": "Python Programming Essentials",
+        "instructor": "Michael Johnson",
+        "description": "Learn the fundamentals of Python programming for various applications.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "data:image/png;base64,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",
+        "duration": "8 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+        "location": "Online",
+        "prerequisites": ["None"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Getting Started with Python",
+            "content": "Introduction to Python, installation, and basic syntax."
+          },
+          {
+            "week": 2,
+            "topic": "Control Structures",
+            "content": "Conditional statements, loops, and flow control in Python."
+          }
+        ],
+        "students": [
+          {
+          "id": 101,
+          "name":"Alice Johnson",
+          "email": "alice@example.com"
+          },
+          {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+          }]
+      },
+      {
+        "id": 6,
+        "name": "Data Science Fundamentals",
+        "instructor": "Sophia Davis",
+        "description": "Introduction to data science and data analysis with Python.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here6",
+        "duration": "12 weeks",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic Python knowledge", "Statistics background"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Data Science",
+            "content": "Overview of data science, its applications, and tools."
+          },
+          {
+            "week": 2,
+            "topic": "Data Analysis with Python",
+            "content": "Data manipulation and analysis using Python libraries."
+          }
+        ],
+        "students": [
+          {
+          "id": 101,
+          "name":"Alice Johnson",
+          "email": "alice@example.com"
+          },
+          {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+          }]
+      },
+      {
+        "id": 7,
+        "name": "Front-End Web Development",
+        "instructor": "Daniel Lee",
+        "description": "Learn front-end web development technologies and create interactive websites.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here7",
+        "duration": "10 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+        "location": "Online",
+        "prerequisites": ["HTML and CSS basics"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "HTML and CSS Fundamentals",
+            "content": "Building the foundation with HTML and CSS basics."
+          },
+          {
+            "week": 2,
+            "topic": "JavaScript for Front-End",
+            "content": "Adding interactivity with JavaScript and DOM manipulation."
+          }
+        ],
+        "students": [
+          {
+          "id": 101,
+          "name":"Alice Johnson",
+          "email": "alice@example.com"
+          },
+          {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+          }]
+      },
+      {
+        "id": 11,
+        "name": "Machine Learning Basics",
+        "instructor": "Oliver Harris",
+        "description": "Introduction to machine learning concepts and algorithms.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here11",
+        "duration": "8 weeks",
+        "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic Python knowledge", "Statistics fundamentals"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Machine Learning",
+            "content": "Overview of machine learning and its applications."
+          },
+          {
+            "week": 2,
+            "topic": "Supervised Learning",
+            "content": "Understanding supervised learning algorithms."
+          }
+        ],
+        "students": [
+          {
+          "id": 101,
+          "name":"Alice Johnson",
+          "email": "alice@example.com"
+          },
+          {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+          }]
+      },
+      {
+        "id": 12,
+        "name": "Mobile App Design",
+        "instructor": "Ava Roberts",
+        "description": "Learn the principles of mobile app design and create user-friendly interfaces.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "your.image.here12",
+        "duration": "6 weeks",
+        "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": ["Basic design knowledge"],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Design Fundamentals",
+            "content": "Principles of good design and UI/UX concepts."
+          },
+          {
+            "week": 2,
+            "topic": "Mobile App Prototyping",
+            "content": "Creating prototypes for mobile apps."
+          }
+        ],
+        "students": [
+          {
+          "id": 101,
+          "name":"Alice Johnson",
+          "email": "alice@example.com"
+          },
+          {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+          }]
+      }
+  ]
+  

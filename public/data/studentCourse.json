@@ -1,0 +1,17 @@
+[
+  {
+    "id": 101,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "status": [
+      { "courseId": 3, "isComplete": false },
+      { "courseId": 7, "isComplete": true }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "status": [{ "courseId": 2, "isComplete": true }]
+  }
+]
